@@ -2,8 +2,8 @@
   "name": "smart-mobile-pro",
   "version": "1.0.0",
   "scripts": {
-    "build": "cd SmartMobile && react-scripts build",
-    "ionic:build": "cd SmartMobile && react-scripts build"
+    "build": "cd smartmobile && react-scripts build",
+    "ionic:build": "cd smartmobile && react-scripts build"
   },
   "dependencies": {
     "react": "^18.2.0",
