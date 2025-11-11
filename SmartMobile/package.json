@@ -1,0 +1,16 @@
+{
+  "name": "smart-mobile-pro",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "react-scripts build",
+    "ionic:build": "react-scripts build"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "@capacitor/core": "^5.0.0"
+  },
+  "devDependencies": {
+    "react-scripts": "5.0.1"
+  }
+}
