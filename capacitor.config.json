@@ -1,0 +1,8 @@
+{
+  "appId": "com.smartmobile.pro",
+  "appName": "SmartMobile Pro",
+  "webDir": "SmartMobile/build",
+  "server": {
+    "androidScheme": "https"
+  }
+}
